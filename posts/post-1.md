@@ -1,7 +1,10 @@
 ---
-title: Post 1
+title: Hello World!
 ---
-# Post Title2!
 
-How's it going?
-sssas
+Hello,
+I'm learning how to use the Eleventy SSG. 
+
+*I'm brand new to this kind of thing.*
+
+Thanks for reading!
