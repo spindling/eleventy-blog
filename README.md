@@ -1,3 +1,0 @@
-﻿# Eleventy Blog
-Hello!
-!!!
